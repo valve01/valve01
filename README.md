@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikenty</h1>
-<h3 align="center">A frontend developer from Russia</h3>
+<h3 align="center">And i love creating websites and UX</h3>
 
 - 📝 I’m currently looking for a permanent job.
 - 🌱 I’m currently learning **React, TypeScript, Redux Toolkit**
