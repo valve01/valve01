@@ -7,6 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+- https://wa.me/+79189602739
+- https://t.me/+79189602739
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
