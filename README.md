@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikenty</h1>
-<!-- <h3 align="center">And i love creating websites and UI</h3> -->
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&repeat=false&width=435&lines=And+i+love+creating+websites+and+UI" alt="Typing SVG" /></a></h3>
 
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&repeat=false&width=435&lines=And+i+love+creating+websites+and+UI" alt="Typing SVG" /></a>
+
 
 - 📝 I’m currently looking for a permanent job.
 - 🌱 I’m currently learning **React, TypeScript, Redux Toolkit**
