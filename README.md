@@ -10,10 +10,7 @@
 - <img src="./whatsapp-icon.svg" alt="whatsapp" width="20" height="20"/> My WhatsApp **https://wa.me/+79189602739**
 - <img src="./telegram-icon.svg" alt="telegram" width="20" height="20"/> My Telegram **https://t.me/+79189602739**
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
 
-</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -32,21 +29,15 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valve01&show_icons=true&locale=en" alt="valve01" /></p>
 
-
-<p>=====================================================</p>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=valve01&label=Profile%20views&color=0e75b6&style=flat" alt="valve01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valve01" alt="valve01" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valve01&show_icons=true&locale=en&layout=compact" alt="valve01" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valve01&show_icons=true&locale=en" alt="valve01" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valve01&" alt="valve01" /></p>
+<!-- <p>=====================================================</p> -->
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=valve01&label=Profile%20views&color=0e75b6&style=flat" alt="valve01" /> </p> -->
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valve01" alt="valve01" /></a> </p> -->
+
+
+
+
+
+
