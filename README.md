@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vikenty</h1>
 <h3 align="center">And i love creating websites and UI</h3>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+
 - 📝 I’m currently looking for a permanent job.
 - 🌱 I’m currently learning **React, TypeScript, Redux Toolkit**
 
