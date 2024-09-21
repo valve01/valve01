@@ -32,9 +32,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=valve01&show_icons=true&card_width=846&locale=en&layout=compact&theme=slateorange" alt="valve01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valve01&card_width=400&show_icons=true&locale=en&theme=slateorange" alt="valve01" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=valve01&card_width=400&show_icons=true&locale=en&theme=slateorange" alt="valve01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valve01&card_width=400&theme=slateorange" alt="valve01" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=valve01&card_width=400&theme=slateorange" alt="valve01" /></p>
 
 
 
