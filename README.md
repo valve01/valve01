@@ -32,7 +32,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=valve01&show_icons=true&card_width=846&locale=en&layout=compact&theme=slateorange" alt="valve01" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=valve01&show_icons=true&locale=en&theme=slateorange&card_width=360" alt="valve01" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valve01&theme=slateorange&card_width=360" alt="valve01" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=valve01&show_icons=true&locale=en&theme=slateorange&card_width=360" alt="valve01" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valve01&theme=slateorange&card_width=389" alt="valve01" /></p>
 
 
 
