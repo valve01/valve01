@@ -82,7 +82,7 @@
   <td valign="middle" align="center"><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="css3"/></a></td>
   <td valign="middle" align="center"><a href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" alt="sass"/></a></td>
   <td valign="middle" align="center"><a href="https://tailwindcss.com/"><img src="./icons/tailwindcss-icon.svg" width="40" height="40" alt="tailwind"/></a></td>
-
+ <td></td>
 </tr>
 
 <!-- Design: Дизайн и графика -->
