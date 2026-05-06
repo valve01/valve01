@@ -28,6 +28,7 @@
        <td valign="middle" align="center"><a href="https://tanstack.com/"><img src="./tanstack-white-icon.svg" width="40" height="40" alt="tanstack"/></a></td>
   </tr>
   <tr>
+    <td valign="middle" align="center"><a href="https://zustand-demo.pmnd.rs/"><img src="./zustand-icon.svg" width="40" height="40" alt="zustand"/></a></td>
    <td valign="middle" align="center"><a href="https://redux-toolkit.js.org/"><img src="./redux-icon.svg" width="40" height="40" alt="redux"/></a></td>
     <td valign="middle" align="center"><a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="figma"/></a></td>
     <td valign="middle" align="center"><a href="https://www.adobe.com/products/xd.html"><img src="./adobe-xd.png" width="40" height="40" alt="xd"/></a></td>
