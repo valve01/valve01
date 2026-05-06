@@ -14,7 +14,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech stack:</h3>
 
 <!-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -39,7 +39,7 @@
     <td align="center"><a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="figma"/></a></td>
     <td align="center"><a href="https://www.adobe.com/products/xd.html"><img src="https://raw.githubusercontent.com/ваш-логин/ваш-репозиторий/main/adobe-xd.png" width="40" height="40" alt="xd"/></a></td>
     <td align="center"><a href="https://www.adobe.com/in/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" alt="illustrator"/></a></td>
-    <td align="center"><a href="https://www.photoshop.com/en"><img src="https://raw.githubusercontent.com/ваш-логин/ваш-репозиторий/main/Photoshop.svg" width="40" height="40" alt="photoshop"/></a></td>
+    <td align="center"><a href="https://www.photoshop.com/en"><img src="./Photoshop.svg" width="40" height="40" alt="photoshop"/></a></td>
   </tr>
 </table>
 
