@@ -16,18 +16,32 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> |
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> |
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a> | 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> |
-
--------------------------------------------
-
+<!-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/></a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="./adobe-xd.png" alt="xd" width="40" height="40"/></a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="./Photoshop.svg" alt="photoshop" width="40" height="40"/></a> 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="./Photoshop.svg" alt="photoshop" width="40" height="40"/></a>  -->
+
+<table>
+  <tr>
+    <td align="center"><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="html5"/></a></td>
+    <td align="center"><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="css3"/></a></td>
+    <td align="center"><a href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" alt="sass"/></a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"/></a></td>
+    <td align="center"><a href="https://gulpjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" width="40" height="40" alt="gulp"/></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td align="center"><a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="figma"/></a></td>
+    <td align="center"><a href="https://www.adobe.com/products/xd.html"><img src="https://raw.githubusercontent.com/ваш-логин/ваш-репозиторий/main/adobe-xd.png" width="40" height="40" alt="xd"/></a></td>
+    <td align="center"><a href="https://www.adobe.com/in/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" alt="illustrator"/></a></td>
+    <td align="center"><a href="https://www.photoshop.com/en"><img src="https://raw.githubusercontent.com/ваш-логин/ваш-репозиторий/main/Photoshop.svg" width="40" height="40" alt="photoshop"/></a></td>
+  </tr>
+</table>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=valve01&show_icons=true&card_width=846&locale=en&layout=compact&theme=slateorange" alt="valve01" /></p>
