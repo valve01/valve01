@@ -55,34 +55,48 @@
 <img src="./icons/telegram-icon.svg" alt="telegram" width="20" height="20"/> My Telegram https://t.me/+79189602739
 <h3 align="left">Tech stack:</h3>
 <table >
- <tr >
- <td valign= "middle " align= "center " > <a href= "https://www.w3.org/html/ " > <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg " width= "40 " height= "40 " alt= "html5 "/ > </a > </td >
- <td valign= "middle " align= "center " > <a href= "https://www.w3schools.com/css/ " > <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg " width= "40 " height= "40 " alt= "css3 "/ > </a > </td >
- <td valign= "middle " align= "center " > <a href= "https://sass-lang.com " > <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg " width= "40 " height= "40 " alt= "sass "/ > </a > </td >
- <td valign= "middle " align= "center " > <a href= "https://developer.mozilla.org/en-US/docs/Web/JavaScript " > <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg " width= "40 " height= "40 " alt= "javascript "/ > </a > </td >
- <td valign= "middle " align= "center " > <a href= "https://gulpjs.com " > <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg " width= "40 " height= "40 " alt= "gulp "/ > </a > </td >
-    <td valign= "middle " align= "center " > <a href= "https://react.dev " > <img src= "./icons/react-icon.svg " width= "40 " height= "40 " alt= "nextjs "/ > </a > </td >
- <td valign= "middle " align= "center " > <a href= "https://www.typescriptlang.org/ " > <img src= "./icons/typescript-icon.svg " width= "40 " height= "40 " alt= "typescript "/ > </a > </td >
- <td valign= "middle " align= "center " > <a href= "https://tanstack.com/ " > <img src= "./icons/tanstack-white-icon.svg " width= "40 " height= "40 " alt= "tanstack "/ > </a > </td >
- </tr >
- <tr >
- <td valign= "middle " align= "center " > <a href= "https://zustand-demo.pmnd.rs/ " > <img src= "./icons/zustand-icon.svg " width= "40 " height= "40 " alt= "zustand "/ > </a > </td >
- <td valign= "middle " align= "center " > <a href= "https://redux-toolkit.js.org/ " > <img src= "./icons/redux-icon.svg " width= "40 " height= "40 " alt= "redux "/ > </a > </td >
- <td valign= "middle " align= "center " > <a href= "https://zod.dev " > <img src= "./icons/zod-icon.svg " width= "40 " height= "40 " alt= "zod "/ > </a > </td >
- <td valign= "middle " align= "center " > <a href= "https://jestjs.io/ " > <img src= "./icons/jest-icon.svg " width= "40 " height= "40 " alt= "jest "/ > </a > </td >
- <td valign= "middle " align= "center " > <a href= "https://tailwindcss.com/ " > <img src= "./icons/tailwindcss-icon.svg " width= "40 " height= "40 " alt= "tailwind "/ > </a > </td >
- <td valign= "middle " align= "center " > <a href= "https://nextjs.org/ " > <img src= "./icons/nextjs-icon.svg " width= "40 " height= "40 " alt= "nextjs "/ > </a > </td >
- <td valign= "middle " align= "center " > <a href= "https://nodejs.org/ " > <img src= "./icons/nodejs-icon.svg " width= "40 " height= "40 " alt= "nodejs "/ > </a > </td >
- </tr >
- <tr >
- <td valign= "middle " align= "center " > <a href= "https://www.prisma.io/ " > <img src= "./icons/prisma-icon.svg " width= "40 " height= "40 " alt= "prisma "/ > </a > </td >
- <td valign= "middle " align= "center " > <a href= "https://www.docker.com/ " > <img src= "./icons/docker-icon.svg " width= "40 " height= "40 " alt= "docker "/ > </a > </td >
- <td valign= "middle " align= "center " > <a href= "https://feature-sliced.design/ " > <img src= "./icons/fsd-icon.png " width= "40 " height= "40 " alt= "fsd "/ > </a > </td >
- <td valign= "middle " align= "center " > <a href= "https://www.figma.com/ " > <img src= "./icons/figma-icon.svg " width= "40 " height= "40 " alt= "figma "/ > </a > </td >
- <td valign= "middle " align= "center " > <a href= "https://www.adobe.com/products/xd.html " > <img src= "./icons/adobe-xd-icon.png " width= "40 " height= "40 " alt= "xd "/ > </a > </td >
- <td valign= "middle " align= "center " > <a href= "https://www.adobe.com/in/products/illustrator.html " > <img src= "./icons/adobe_illustrator-icon.svg " width= "40 " height= "40 " alt= "illustrator "/ > </a > </td >
- <td valign= "middle " align= "center " > <a href= "https://www.photoshop.com/en " > <img src= "./icons/Photoshop-icon.svg " width= "40 " height= "40 " alt= "photoshop "/ > </a > </td >
- </tr >
+<!-- Core: Языки и основные фреймворки -->
+<tr>
+  <td valign="middle" align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"/></a></td>
+  <td valign="middle" align="center"><a href="https://www.typescriptlang.org/"><img src="./icons/typescript-icon.svg" width="40" height="40" alt="typescript"/></a></td>
+  <td valign="middle" align="center"><a href="https://react.dev"><img src="./icons/react-icon.svg" width="40" height="40" alt="react"/></a></td>
+  <td valign="middle" align="center"><a href="https://nextjs.org/"><img src="./icons/nextjs-icon.svg" width="40" height="40" alt="nextjs"/></a></td>
+  <td valign="middle" align="center"><a href="https://nodejs.org/"><img src="./icons/nodejs-icon.svg" width="40" height="40" alt="nodejs"/></a></td>
+</tr>
+
+<!-- State & Data: Управление состоянием и данные -->
+<tr>
+  <td valign="middle" align="center"><a href="https://redux-toolkit.js.org/"><img src="./icons/redux-icon.svg" width="40" height="40" alt="redux"/></a></td>
+  <td valign="middle" align="center"><a href="https://zustand-demo.pmnd.rs/"><img src="./icons/zustand-icon.svg" width="40" height="40" alt="zustand"/></a></td>
+  <td valign="middle" align="center"><a href="https://tanstack.com/"><img src="./icons/tanstack-white-icon.svg" width="40" height="40" alt="tanstack"/></a></td>
+  <td valign="middle" align="center"><a href="https://zod.dev"><img src="./icons/zod-icon.svg" width="40" height="40" alt="zod"/></a></td>
+  <td valign="middle" align="center"><a href="https://www.prisma.io/"><img src="./icons/prisma-icon.svg" width="40" height="40" alt="prisma"/></a></td>
+</tr>
+
+
+<tr>
+  <td valign="middle" align="center"><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="html5"/></a></td>
+  <td valign="middle" align="center"><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="css3"/></a></td>
+  <td valign="middle" align="center"><a href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" alt="sass"/></a></td>
+  <td valign="middle" align="center"><a href="https://tailwindcss.com/"><img src="./icons/tailwindcss-icon.svg" width="40" height="40" alt="tailwind"/></a></td>
+
+</tr>
+
+<!-- Design: Дизайн и графика -->
+<tr>
+  <td valign="middle" align="center"><a href="https://www.figma.com/"><img src="./icons/figma-icon.svg" width="40" height="40" alt="figma"/></a></td>
+  <td valign="middle" align="center"><a href="https://www.adobe.com/products/xd.html"><img src="./icons/adobe-xd-icon.png" width="40" height="40" alt="xd"/></a></td>
+  <td valign="middle" align="center"><a href="https://www.adobe.com/in/products/illustrator.html"><img src="./icons/adobe_illustrator-icon.svg" width="40" height="40" alt="illustrator"/></a></td>
+  <td valign="middle" align="center"><a href="https://www.photoshop.com/en"><img src="./icons/Photoshop-icon.svg" width="40" height="40" alt="photoshop"/></a></td>
+</tr>
+
+
+<tr>
+    <td valign="middle" align="center"><a href="https://jestjs.io/"><img src="./icons/jest-icon.svg" width="40" height="40" alt="jest"/></a></td>
+  <td valign="middle" align="center"><a href="https://www.docker.com/"><img src="./icons/docker-icon.svg" width="40" height="40" alt="docker"/></a></td>
+  <td valign="middle" align="center"><a href="https://feature-sliced.design/"><img src="./icons/fsd-icon.png" width="40" height="40" alt="fsd"/></a></td>
+  <td valign="middle" align="center"><a href="https://gulpjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" width="40" height="40" alt="gulp"/></a></td>
+</tr>
  </table >
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valve01&theme=slateorange&card_width=389" alt="valve01" /></p>
