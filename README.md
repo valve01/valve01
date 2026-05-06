@@ -20,18 +20,18 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="html5"/></a></td>
-    <td align="center"><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="css3"/></a></td>
-    <td align="center"><a href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" alt="sass"/></a></td>
-    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"/></a></td>
-    <td align="center"><a href="https://gulpjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" width="40" height="40" alt="gulp"/></a></td>
+    <td valign="middle" align="center"><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="html5"/></a></td>
+    <td valign="middle" align="center"><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="css3"/></a></td>
+    <td valign="middle" align="center"><a href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" alt="sass"/></a></td>
+    <td valign="middle" align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"/></a></td>
+    <td valign="middle" align="center"><a href="https://gulpjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" width="40" height="40" alt="gulp"/></a></td>
   </tr>
   <tr>
-   <td align="center"><a href="https://redux-toolkit.js.org/"><img src="./redux-icon.svg" width="40" height="40" alt="redux"/></a></td>
-    <td align="center"><a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="figma"/></a></td>
-    <td align="center"><a href="https://www.adobe.com/products/xd.html"><img src="./adobe-xd.png" width="40" height="40" alt="xd"/></a></td>
-    <td align="center"><a href="https://www.adobe.com/in/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" alt="illustrator"/></a></td>
-    <td align="center"><a href="https://www.photoshop.com/en"><img src="./Photoshop.svg" width="40" height="40" alt="photoshop"/></a></td>
+   <td valign="middle" align="center"><a href="https://redux-toolkit.js.org/"><img src="./redux-icon.svg" width="40" height="40" alt="redux"/></a></td>
+    <td valign="middle" align="center"><a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="figma"/></a></td>
+    <td valign="middle" align="center"><a href="https://www.adobe.com/products/xd.html"><img src="./adobe-xd.png" width="40" height="40" alt="xd"/></a></td>
+    <td valign="middle" align="center"><a href="https://www.adobe.com/in/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" alt="illustrator"/></a></td>
+    <td valign="middle" align="center"><a href="https://www.photoshop.com/en"><img src="./Photoshop.svg" width="40" height="40" alt="photoshop"/></a></td>
   </tr>
 </table>
 
