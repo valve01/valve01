@@ -46,13 +46,15 @@
 
 
  <h1 align="center">Hi 👋, I'm Vikenty</h1> 
-<h3 align= "center " > <a href= "https://git.io/typing-svg " > <img src= "https://readme-typing-svg.herokuapp.com?font=Fira+Code &size=24 &duration=4000 &color=F0DB4F &background=0036C000 &center=true &multiline=true &repeat=false &width=560 &height=70 &lines=I'm+Frontend+developer;And+i+love+creating+websites+and+UI " alt= "Typing SVG " / > </a > </h3 >
-📝 I'm currently looking for a permanent job.
-🌱 I'm currently learning a lot of AI Tools
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=F0DB4F&background=0036C000&center=true&multiline=true&repeat=false&width=560&height=70&lines=I'm+Frontend+developer;And+i+love+creating+websites+and+UI" alt="Typing SVG" /></a></h3>
+- 📝 I’m currently looking for a permanent job.
+- 🌱 I’m currently learning **a lot of AI Tools**
+
 <h3 align="left">Contacts:</h3>
-📫 My e-mail valve01@bk.ru
-<img src="./icons/whatsapp-icon.svg" alt="whatsapp" width="20" height="20"/> My WhatsApp https://wa.me/+79189602739
-<img src="./icons/telegram-icon.svg" alt="telegram" width="20" height="20"/> My Telegram https://t.me/+79189602739
+
+- 📫 My e-mail **valve01@bk.ru**
+- <img src="./whatsapp-icon.svg" alt="whatsapp" width="20" height="20"/> My WhatsApp **https://wa.me/+79189602739**
+- <img src="./telegram-icon.svg" alt="telegram" width="20" height="20"/> My Telegram **https://t.me/+79189602739**
 <h3 align="left">Tech stack:</h3>
 <table >
 <!-- Core: Языки и основные фреймворки -->
