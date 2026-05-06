@@ -53,8 +53,8 @@
 <h3 align="left">Contacts:</h3>
 
 - 📫 My e-mail **valve01@bk.ru**
-- <img src="./whatsapp-icon.svg" alt="whatsapp" width="20" height="20"/> My WhatsApp **https://wa.me/+79189602739**
-- <img src="./telegram-icon.svg" alt="telegram" width="20" height="20"/> My Telegram **https://t.me/+79189602739**
+- <img src="./icons/whatsapp-icon.svg" alt="whatsapp" width="20" height="20"/> My WhatsApp **https://wa.me/+79189602739**
+- <img src="./icons/telegram-icon.svg" alt="telegram" width="20" height="20"/> My Telegram **https://t.me/+79189602739**
 <h3 align="left">Tech stack:</h3>
 <table >
 <!-- Core: Языки и основные фреймворки -->
