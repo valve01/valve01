@@ -91,6 +91,7 @@
   <td valign="middle" align="center"><a href="https://www.adobe.com/products/xd.html"><img src="./icons/adobe-xd-icon.png" width="40" height="40" alt="xd"/></a></td>
   <td valign="middle" align="center"><a href="https://www.adobe.com/in/products/illustrator.html"><img src="./icons/adobe_illustrator-icon.svg" width="40" height="40" alt="illustrator"/></a></td>
   <td valign="middle" align="center"><a href="https://www.photoshop.com/en"><img src="./icons/Photoshop-icon.svg" width="40" height="40" alt="photoshop"/></a></td>
+  <td></td>
 </tr>
 
 
@@ -99,6 +100,7 @@
   <td valign="middle" align="center"><a href="https://www.docker.com/"><img src="./icons/docker-icon.svg" width="40" height="40" alt="docker"/></a></td>
   <td valign="middle" align="center"><a href="https://feature-sliced.design/"><img src="./icons/fsd-icon.png" width="40" height="40" alt="fsd"/></a></td>
   <td valign="middle" align="center"><a href="https://gulpjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" width="40" height="40" alt="gulp"/></a></td>
+   <td></td>
 </tr>
  </table >
 
