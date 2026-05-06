@@ -27,7 +27,7 @@
     <td align="center"><a href="https://gulpjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" width="40" height="40" alt="gulp"/></a></td>
   </tr>
   <tr>
-   <td align="center"><a href="https://redux-toolkit.js.org/"><img src="./redux-icon" width="40" height="40" alt="redux"/></a></td>
+   <td align="center"><a href="https://redux-toolkit.js.org/"><img src="./redux-icon.svg" width="40" height="40" alt="redux"/></a></td>
     <td align="center"><a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="figma"/></a></td>
     <td align="center"><a href="https://www.adobe.com/products/xd.html"><img src="./adobe-xd.png" width="40" height="40" alt="xd"/></a></td>
     <td align="center"><a href="https://www.adobe.com/in/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" alt="illustrator"/></a></td>
