@@ -77,7 +77,7 @@
  <tr >
  <td valign= "middle " align= "center " > <a href= "https://www.prisma.io/ " > <img src= "./icons/prisma-icon.svg " width= "40 " height= "40 " alt= "prisma "/ > </a > </td >
  <td valign= "middle " align= "center " > <a href= "https://www.docker.com/ " > <img src= "./icons/docker-icon.svg " width= "40 " height= "40 " alt= "docker "/ > </a > </td >
- <td valign= "middle " align= "center " > <a href= "https://feature-sliced.design/ " > <img src= "./icons/fsd-icon.svg " width= "40 " height= "40 " alt= "fsd "/ > </a > </td >
+ <td valign= "middle " align= "center " > <a href= "https://feature-sliced.design/ " > <img src= "./icons/fsd-icon.png " width= "40 " height= "40 " alt= "fsd "/ > </a > </td >
  <td valign= "middle " align= "center " > <a href= "https://www.figma.com/ " > <img src= "https://www.vectorlogo.zone/logos/figma/figma-icon.svg " width= "40 " height= "40 " alt= "figma "/ > </a > </td >
  <td valign= "middle " align= "center " > <a href= "https://www.adobe.com/products/xd.html " > <img src= "./icons/adobe-xd-icon.png " width= "40 " height= "40 " alt= "xd "/ > </a > </td >
  <td valign= "middle " align= "center " > <a href= "https://www.adobe.com/in/products/illustrator.html " > <img src= "./icons/adobe_illustrator-icon.svg " width= "40 " height= "40 " alt= "illustrator "/ > </a > </td >
