@@ -71,7 +71,7 @@
 <tr>
   <td valign="middle" align="center"><a href="https://redux-toolkit.js.org/"><img src="./icons/redux-icon.svg" width="40" height="40" alt="redux"/></a></td>
   <td valign="middle" align="center"><a href="https://zustand-demo.pmnd.rs/"><img src="./icons/zustand-icon.svg" width="40" height="40" alt="zustand"/></a></td>
-  <td valign="middle" align="center"><a href="https://tanstack.com/"><img src="./icons/tanstack-white-icon.svg" width="40" height="40" alt="tanstack"/></a></td>
+  <td valign="middle" align="center"><a href="https://tanstack.com/"><img src="./icons/tanstack.png" width="40" height="40" alt="tanstack"/></a></td>
   <td valign="middle" align="center"><a href="https://zod.dev"><img src="./icons/zod-icon.svg" width="40" height="40" alt="zod"/></a></td>
   <td valign="middle" align="center"><a href="https://www.prisma.io/"><img src="./icons/prisma-icon.svg" width="40" height="40" alt="prisma"/></a></td>
 </tr>
