@@ -63,7 +63,7 @@
   <td valign="middle" align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"/></a></td>
   <td valign="middle" align="center"><a href="https://www.typescriptlang.org/"><img src="./icons/typescript-icon.svg" width="40" height="40" alt="typescript"/></a></td>
   <td valign="middle" align="center"><a href="https://react.dev"><img src="./icons/react-icon.svg" width="40" height="40" alt="react"/></a></td>
-  <td valign="middle" align="center"><a href="https://nextjs.org/"><img src="./icons/nextjs-icon.svg" width="40" height="40" alt="nextjs"/></a></td>
+  <td valign="middle" align="center"><a href="https://nextjs.org/"><img src="./icons/nextjs.svg" width="40" height="40" alt="nextjs"/></a></td>
   <td valign="middle" align="center"><a href="https://nodejs.org/"><img src="./icons/nodejs-icon.svg" width="40" height="40" alt="nodejs"/></a></td>
 </tr>
 
