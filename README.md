@@ -4,7 +4,7 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=F0DB4F&background=0036C000&center=true&multiline=true&repeat=false&width=560&height=70&lines=I'm+Frontend+developer;And+i+love+creating+websites+and+UI" alt="Typing SVG" /></a></h3>
 
 - 📝 I’m currently looking for a permanent job.
-- 🌱 I’m currently learning **React, TypeScript, Redux Toolkit**
+- 🌱 I’m currently learning **a lot of AI Tools**
 
 <h3 align="left">Contacts:</h3>
 
