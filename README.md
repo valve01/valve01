@@ -61,6 +61,7 @@
  <td valign= "middle " align= "center " > <a href= "https://sass-lang.com " > <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg " width= "40 " height= "40 " alt= "sass "/ > </a > </td >
  <td valign= "middle " align= "center " > <a href= "https://developer.mozilla.org/en-US/docs/Web/JavaScript " > <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg " width= "40 " height= "40 " alt= "javascript "/ > </a > </td >
  <td valign= "middle " align= "center " > <a href= "https://gulpjs.com " > <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg " width= "40 " height= "40 " alt= "gulp "/ > </a > </td >
+    <td valign= "middle " align= "center " > <a href= "https://react.dev " > <img src= "./icons/react-icon.svg " width= "40 " height= "40 " alt= "nextjs "/ > </a > </td >
  <td valign= "middle " align= "center " > <a href= "https://www.typescriptlang.org/ " > <img src= "./icons/typescript-icon.svg " width= "40 " height= "40 " alt= "typescript "/ > </a > </td >
  <td valign= "middle " align= "center " > <a href= "https://tanstack.com/ " > <img src= "./icons/tanstack-white-icon.svg " width= "40 " height= "40 " alt= "tanstack "/ > </a > </td >
  </tr >
